@@ -1,8 +1,9 @@
 # README
 
 ##Demo
-Latest deployed version of this site is available through [Heroku](https://calm-plains-71194.herokuapp.com/).
+Latest deployed version of this site is available [here](https://calm-plains-71194.herokuapp.com/).
 
+##App details
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
